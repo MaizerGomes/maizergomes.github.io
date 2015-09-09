@@ -31,7 +31,7 @@ links:
    url: "#exprience"
    icon: fa fa-suitcase
    active: ""
- - titulo: Educação
+ - titulo: Educaço
    url: "#education"
    icon: fa fa-graduation-cap
    active: ""

@@ -2,71 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12b5cf0b-7e84-4caa-9c27-dc71f1cbf13a" name="Default" comment="New site template">
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\fallback.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\jquery-ui-1.8.16.custom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\lightbox.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\slideshow.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\fonts\fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\arrow-left-light.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\arrow-top-light.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\arrow-top.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\bg-black.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\closebutton.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\container-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\left-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\map-bro.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\portfolio\big\8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\right-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\images\skills.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\custom.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.contact.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.easing.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.easypiechart.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.gridrotator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.ui.rlightbox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\jquery.ui.widget.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\modernizr.custom.26633.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\old\js\stickUp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\params.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\stock\images\arrow-down.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\stock\images\octocat-small.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\stock\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\stock\javascripts\scale.fix.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\stock\stylesheets\github-light.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maizer\Code\maizergomes.github.io\stock\stylesheets\styles.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/index.html" afterPath="$PROJECT_DIR$/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="maizergomes.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,8 +47,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.077028885">
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.23108666">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -157,11 +93,11 @@
         <option value="$PROJECT_DIR$/js/jquery.contact.js" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/old/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -526,8 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.077028885">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.23108666">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding />
         </state>
       </provider>
