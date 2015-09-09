@@ -10,20 +10,20 @@
 <!--[if gt IE 9]><!-->
 <html class="no-js" lang="pt"><!--<![endif]-->
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+{% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+<div class="wrapper" id="wrapper">
+    {{ content }}
+</div>
 
-    {% include footer.html %}
+{% include footer.html %}
 
-  </body>
+{% include scripts.html %}
+
+</body>
 
 </html>

@@ -1,6 +1,7 @@
 # Site settings
-title: Maizer Gomes Portfolio
+titulo: Maizer Gomes - Desenvolvedor de Aplicações Web
 email: maizer.gomes@gmail.com
+autor: Maizer Gomes
 description: > # this means to ignore newlines until "baseurl:"
   Freelance web designer and developer, Development in PHP, Laravel,
   HTML, CSS, Javascript, Rails, Jekyll
@@ -31,7 +32,7 @@ links:
    url: "#exprience"
    icon: fa fa-suitcase
    active: ""
- - titulo: Educaço
+ - titulo: Educação
    url: "#education"
    icon: fa fa-graduation-cap
    active: ""
