@@ -1,14 +1,49 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Maizer Gomes Portfolio
+email: maizer.gomes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Freelance web designer and developer, Development in PHP, Laravel,
+  HTML, CSS, Javascript, Rails, Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://maizergomes.github.io" # the base hostname & protocol for your site
+twitter_username: MaizerGomes
+facebook_username: maizer.gomes
+github_username:  MaizerGomes
+google_username:  maizer.gomes
+bitbucket_username:  MaizerGomes
+
+permalink: /:categoria/:titulo
+
+links:
+ - titulo: Início
+   url: "#wrapper"
+   icon: fa fa-home
+   active: active
+ - titulo: Sobre mim
+   url: "#aboutme"
+   icon: fa fa-commenting-o
+   active: ""
+ - titulo: Competências
+   url: "#technical"
+   icon: fa fa-pie-chart
+   active: ""
+ - titulo: Experiências
+   url: "#exprience"
+   icon: fa fa-suitcase
+   active: ""
+ - titulo: Educação
+   url: "#education"
+   icon: fa fa-graduation-cap
+   active: ""
+ - titulo: Projectos
+   url: "#protfolio"
+   icon: fa fa-code
+   active: ""
+ - titulo: Contacto
+   url: "#contact"
+   icon: fa fa-envelope
+   active: ""
+
 
 # Build settings
 markdown: kramdown
