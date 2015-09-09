@@ -1,0 +1,37 @@
+<section class="contactDetails">
+    <div class="container">
+        <!--contact info start-->
+        <div class="col-xs-12 col-sm-3 col-md-4 col-lg-4">
+            <h4>Detalhes para Contacto</h4>
+
+            <p><i class="fa fa-map-marker fa-lg"></i> Maputo, Moçambique</p>
+
+            <p><i class="fa fa-mobile fa-lg"></i> +258 82 396 424</p>
+
+            <p><i class="fa fa-envelope-o "></i>
+                <a href="mailto:maizer.gomes@gmail.com">maizer.gomes@gmail.com</a></p>
+
+            <p><i class="fa fa-link "></i> <a href="https://maizergomes.github.io">maizergomes.github.io</a></p>
+
+            <p><i class="fa fa-link "></i> <a href="http://maizergomes.bitbucket.org">maizergomes.bitbucket.org</a></p>
+        </div>
+        <!--contact info end-->
+        <!--contact form start-->
+        <div class="col-xs-12 col-sm-9 col-md-8 col-lg-8 conForm">
+            <h4>Mande-me uma mensagem!</h4>
+
+            <div id="message"></div>
+            <form method="post" action="https://formspree.io" name="cform" id="cform">
+                <input type="hidden" name="_subject" id="_subject" value="Contacto via maizergomes.github.io"/>
+                <input type="text" name="_gotcha" id="_gotcha" style="display:none"/>
+                <input name="name" id="name" required type="text" class="col-xs-12 col-sm-6 col-md-6 col-lg-6" placeholder="O seu nome...">
+                <input name="email" id="email" required type="email" class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 noMarr" placeholder="O seu email...">
+                <textarea name="body" required id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Escreva a sua mensagem..."></textarea>
+                <input type="submit" id="submit" name="send" class="submitBnt" value="Enviar mensagem">
+
+                <div id="simple-msg"></div>
+            </form>
+        </div>
+        <!--contact form end-->
+    </div>
+</section>

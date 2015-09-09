@@ -1,5 +1,6 @@
 # Site settings
 titulo: Maizer Gomes - Desenvolvedor de Aplicações Web
+funcao: Desenvolvedor de Aplicações Web
 email: maizer.gomes@gmail.com
 autor: Maizer Gomes
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,8 +13,6 @@ facebook_username: maizer.gomes
 github_username:  MaizerGomes
 google_username:  maizer.gomes
 bitbucket_username:  MaizerGomes
-
-permalink: /:categoria/:titulo
 
 links:
  - titulo: Início
