@@ -6,5 +6,5 @@ categories: projecto
 link: "https://maizergomes.github.io/iEduSoft"
 imagem: "images/portfolio/big/1.jpg"
 tumb: "https://placehold.it/450x450&text=image1"
-tags: laravel
+tag: laravel
 ---
